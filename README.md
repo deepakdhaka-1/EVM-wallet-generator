@@ -39,6 +39,6 @@ python main.py
 ```
 # To Copy content of wallet `evm_wallets.csv` file.
 ```bash
-cat evm_keys.txt | clip.exe
+cat evm_wallets.csv | clip.exe
 ```
 -This command will copy the content of evm wallets on your clipboard, paste it in any excel or safe location.
