@@ -28,14 +28,14 @@ A lightweight and powerful command-line tool to generate one or many **Ethereum 
 
 ```bash
 git clone [https://github.com/deepakdhaka-1/EVM-wallet-generator
-cd evm-wallet-generator-cli
+cd EVM-wallet-generator
 pip install -r requirements.txt
 ```
 ## Main command
 ```bash
-python3 main.py
+python3 bot.py
 # or
-python main.py
+python bot.py
 ```
 # To Copy content of wallet `evm_wallets.csv` file.
 ```bash
