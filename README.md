@@ -27,7 +27,7 @@ A lightweight and powerful command-line tool to generate one or many **Ethereum 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/deepakdhaka-1/evm-wallet-generator-cli.git
+git clone [https://github.com/deepakdhaka-1/EVM-wallet-generator
 cd evm-wallet-generator-cli
 pip install -r requirements.txt
 ```
